@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    background-color: blueviolet;
+    padding: 200px;
+}
+
+.inner{
+    background-color: white;
+    padding: 200px;
+}
