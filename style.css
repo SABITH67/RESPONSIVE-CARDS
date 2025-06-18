@@ -11,5 +11,15 @@
 
 .inner{
     background-color: white;
-    padding: 200px;
+    padding: 30px;
+}
+
+.thin {
+    font-size: small;
+    font-weight: lighter;
+    
+}
+
+.margin{
+    margin-top: 50px;
 }
